@@ -19,7 +19,7 @@
   <br>
 <div align="center">
   
-  <h2> 🚀 Languages and Tools: </h2>
+  <h2> 🚀 Languages and Tools </h2>
   
 
 <p align="center"> 
@@ -70,7 +70,7 @@
 </p>
  <br/>
  <div align="center">
-  <h2>🤵 How to Contact Me!</h2>
+  <h2>🤵 Contact Me</h2>
   📫 <b>yashseth2002@gmail.com</b><br>
   ☎️ <b>+91-8108015244</b></br>
  </div>
