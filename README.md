@@ -3,16 +3,16 @@
 
 <h3 align="center">Hello there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <br>I'm Yash Seth, Nice to meet you!<span style="color:yellow;"></span><br><br>
  
-![visitors](https://komarev.com/ghpvc/?username=yash-sethh&style=flat-square&label=Visitors&color=5d9732)
+![visitors](https://komarev.com/ghpvc/?username=yash-seth&style=flat-square&label=Visitors&color=5d9732)
 </h3>  
 <br/>
    <div align="center">
      
 ## :gear: Projects
 
-- TessOCR - Desktop OCR tool - https://github.com/yash-seth/TessOCR/ -  A lightweight and cross-platform compatible desktop OCR tool
-- E-Dive - File Management System - https://yash-seth.github.io/edrivefms/ - A File Management System implemented using ReactJS, Node.js and Firebase
-- Railway Ticket Booking and Management System - https://github.com/VinayMoolya/first_yr_dbms_proj - Primitive Railway Ticket Booking and Management System which is based on a php backend and HTML, CSS and JS front-end.
+- [TessOCR - Desktop OCR tool](https://github.com/yash-seth/TessOCR/) -  A lightweight and cross-platform compatible desktop OCR tool
+- [E-Dive - File Management System](https://yash-seth.github.io/edrivefms/) - A File Management System implemented using ReactJS, Node.js and Firebase
+- [Railway Ticket Booking and Management System](https://github.com/VinayMoolya/first_yr_dbms_proj) - Primitive Railway Ticket Booking and Management System which is based on a php backend and HTML, CSS and JS front-end.
 
   </div>
 <br/>
@@ -49,6 +49,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/yash-seth/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://www.instagram.com/_protostar_/)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:yashseth2002@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&labelColor=white&logo=whatsapp&logoColor=green)](https://wa.me/8108015244/?text=Hi%20Yash)
 
 </p>
 <br/>
@@ -59,6 +60,17 @@
   <h2> 📊 My Github Stats </h2>
 
   <br/>
-    <a href="https://github.com/jaydeepdey03/github-readme-stats"><img alt="Jaydeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yash-seth&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/jaydeepdey03/github-readme-stats"><img alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yash-seth&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
  
+ <p align="center">
+    <a href="https://github.com/yash-seth/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-seth&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+ <br/>
+ <div align="center">
+  <h2>🤵 How to Contact Me!</h2>
+  📫 <b>yashseth2002@gmail.com</b><br>
+  ☎️ <b>+91-8108015244</b></br>
+ </div>
