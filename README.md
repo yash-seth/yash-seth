@@ -12,6 +12,7 @@
 
 - [TessOCR - Desktop OCR tool](https://github.com/yash-seth/TessOCR/) -  A lightweight and cross-platform compatible desktop OCR tool
 - [E-Dive - File Management System](https://yash-seth.github.io/edrivefms/) - A File Management System implemented using ReactJS, Node.js and Firebase
+- [Edpoint - A One-Stop Solution for all your Educational Needs](https://yash-seth.github.io/Edpoint/) - An Educational web-app based on HTML, CSS, JavaScript and Firebase
 - [Railway Ticket Booking and Management System](https://github.com/VinayMoolya/first_yr_dbms_proj) - Primitive Railway Ticket Booking and Management System which is based on a php backend and HTML, CSS and JS front-end.
 
   </div>
