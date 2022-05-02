@@ -73,5 +73,4 @@
  <div align="center">
   <h2>🤵 Contact Me</h2>
   📫 <b>yashseth2002@gmail.com</b><br>
-  ☎️ <b>+91-8108015244</b></br>
  </div>
