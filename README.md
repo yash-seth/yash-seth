@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer Gif" alt="Programmer coding gif" height="300" width="500">
 
-<h3 align="center">Hello there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <br>I'm Yash Seth, Nice to meet you!<span style="color:yellow;"></span><br><br>
+<h3 align="center">Hello there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="45px" width="45px" alt="waving hand gif"> <br>I'm Yash Seth, Nice to meet you!<span style="color:yellow;"></span><br><br>
  
 ![visitors](https://komarev.com/ghpvc/?username=yash-seth&style=flat-square&label=Visitors&color=5d9732)
 </h3>  
@@ -11,7 +11,7 @@
 ## :gear: Projects
 
 - [TessOCR - Desktop OCR tool](https://github.com/yash-seth/TessOCR/) -  A lightweight and cross-platform compatible desktop OCR tool
-- [E-Dive - File Management System](https://yash-seth.github.io/edrivefms/) - A File Management System implemented using ReactJS, Node.js and Firebase
+- [E-Drive - File Management System](https://yash-seth.github.io/edrivefms/) - A File Management System implemented using ReactJS, Node.js and Firebase
 - [MERN CRUD App](https://github.com/yash-seth/MERN-CRUD-App) - A CRUD App based on the MERN Stack
 - [Django CRUD App](https://github.com/yash-seth/django-CRUD-app) - A CRUD App based on the Django
 - [Edpoint - A One-Stop Solution for all your Educational Needs](https://yash-seth.github.io/Edpoint/) - An Educational web-app based on HTML, CSS, JavaScript and Firebase
