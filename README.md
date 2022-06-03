@@ -10,7 +10,7 @@
      
 ## :gear: Projects
 
-- [Counterfeit Product Detection System](https://github.com/yash-seth/Counterfeit-Product-Detection-System) - A Blockchain-Based solution to help users check if a product is Real or Counterfeit. The idea and product were developed as part of the HacKnight Hackathon.
+- [Counterfeit Product Detection System](https://github.com/yash-seth/Counterfeit-Product-Detection-System) - A Blockchain-Based solution to help users check if a product is Real or Counterfeit. The idea and product were developed as part of the HacKnight Hackathon organized by HackClub VITC in association with Crust and polygon.
 - [TessOCR - Desktop OCR tool](https://github.com/yash-seth/TessOCR/) -  A lightweight and cross-platform compatible desktop OCR tool
 - [E-Drive - File Management System](https://yash-seth.github.io/edrivefms/) - A File Management System implemented using ReactJS, Node.js and Firebase
 - [MERN CRUD App](https://github.com/yash-seth/MERN-CRUD-App) - A CRUD App based on the MERN Stack
