@@ -10,13 +10,23 @@
      
 ## :gear: Projects
 
-- [Counterfeit Product Detection System](https://github.com/yash-seth/Counterfeit-Product-Detection-System) - A Blockchain-Based solution to help users check if a product is Real or Counterfeit. The idea and product were developed as part of the HacKnight Hackathon organized by HackClub VITC in association with Crust and polygon.
+[//]: # - [Counterfeit Product Detection System](https://github.com/yash-seth/Counterfeit-Product-Detection-System) - A Blockchain-Based solution to help users check if a product is Real or Counterfeit. The idea and product were developed as part of the HacKnight Hackathon organized by HackClub VITC in association with Crust and polygon.
 - [TessOCR - Desktop OCR tool](https://github.com/yash-seth/TessOCR/) -  A lightweight and cross-platform compatible desktop OCR tool
 - [E-Drive - File Management System](https://yash-seth.github.io/edrivefms/) - A File Management System implemented using ReactJS, Node.js and Firebase
 - [MERN CRUD App](https://github.com/yash-seth/MERN-CRUD-App) - A CRUD App based on the MERN Stack
 - [Django CRUD App](https://github.com/yash-seth/django-CRUD-app) - A CRUD App based on the Django
 - [Edpoint - A One-Stop Solution for all your Educational Needs](https://yash-seth.github.io/Edpoint/) - An Educational web-app based on HTML, CSS, JavaScript and Firebase
 - [Railway Ticket Booking and Management System](https://github.com/VinayMoolya/first_yr_dbms_proj) - Primitive Railway Ticket Booking and Management System which is based on a php backend and HTML, CSS and JS front-end.
+
+| Title      | Description | Link |
+| ----------- | ----------- | ----------- |
+| Counterfeit Product Detection System      | A Blockchain-Based solution to help users check if a product is Real or Counterfeit. The idea and product were developed as part of the HacKnight Hackathon organized by HackClub VITC in association with Crust and polygon.       | https://github.com/yash-seth/Counterfeit-Product-Detection-System |
+| TessOCR - Desktop OCR tool   | A lightweight and cross-platform compatible desktop OCR tool        | https://github.com/yash-seth/TessOCR/ |
+| E-Drive - File Management System   |  A File Management System implemented using ReactJS, Node.js and Firebase        | https://yash-seth.github.io/edrivefms/ |
+| MERN CRUD App   | A CRUD App based on the MERN Stack        | https://github.com/yash-seth/MERN-CRUD-App |
+| Django CRUD App  | A CRUD App based on the Django        | https://github.com/yash-seth/django-CRUD-app |
+| Edpoint - A One-Stop Solution for all your Educational Needs   |  An Educational web-app based on HTML, CSS, JavaScript and Firebase      | https://yash-seth.github.io/Edpoint/ |
+| Railway Ticket Booking and Management System   |  Primitive Railway Ticket Booking and Management System which is based on a php backend and HTML, CSS and JS front-end.      | https://github.com/VinayMoolya/first_yr_dbms_proj |
 
   </div>
 <br/>
