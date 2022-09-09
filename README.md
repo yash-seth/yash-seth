@@ -13,7 +13,7 @@
 | ----------- | ----------- | ----------- |
 | Counterfeit Product Detection System      | A Blockchain-Based solution to help users check if a product is Real or Counterfeit. The idea and product were developed as part of the HacKnight Hackathon organized by HackClub VITC in association with Crust and polygon.       | https://github.com/yash-seth/Counterfeit-Product-Detection-System |
 | TessOCR - Desktop OCR tool   | A lightweight and cross-platform compatible desktop OCR tool        | https://github.com/yash-seth/TessOCR/ |
-| E-Drive - Cloud Storage Solution   |  A Cloud Storage Solution built using React, Node and Firebase        | https://yash-seth.github.io/edrivefms/ |
+| E-Drive - Cloud Storage Service   |  A Cloud-Based Storage Service built using React, Node and Firebase        | https://yash-seth.github.io/edrivefms/ |
 | MERN CRUD App   | A CRUD App based on the MERN Stack        | https://github.com/yash-seth/MERN-CRUD-App |
 | Django CRUD App  | A CRUD App based on the Django        | https://github.com/yash-seth/django-CRUD-app |
 | Edpoint - A One-Stop Solution for all your Educational Needs   |  An Educational web-app based on HTML, CSS, JavaScript and Firebase      | https://yash-seth.github.io/Edpoint/ |
