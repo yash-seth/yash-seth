@@ -67,7 +67,9 @@
   <h2> 📊 My Github Stats </h2>
 
   <br/>
-    <a href="https://github.com/jaydeepdey03/github-readme-stats"><img alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yash-seth&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-seth&show_icons=true&theme=radical)
+ 
 </p>
  
  <p align="center">
