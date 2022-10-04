@@ -72,11 +72,8 @@
  
 </p>
  
- <p align="center">
-    <a href="https://github.com/yash-seth/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-seth&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yash-seth&theme=radical)](https://git.io/streak-stats)
+
  <br/>
  <div align="center">
   <h2>🤵 Contact Me</h2>
