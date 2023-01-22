@@ -11,6 +11,7 @@
 ## :gear: Projects
 | Title      | Description | Link |
 | ----------- | ----------- | ----------- |
+| Misui Thirdweel - E-Commerce Platform      | Full Fledged E-Commerce Platform built for Misui India Pvt Ltd       | [Landing Page](https://dev-yash-frontend.d3b57r97sw4yz6.amplifyapp.com/) <br> [Website Store](http://ec2-54-160-215-84.compute-1.amazonaws.com:3000/) |
 | Counterfeit Product Detection System      | A Blockchain-Based solution to help users check if a product is Real or Counterfeit. The idea and product were developed as part of the HacKnight Hackathon organized by HackClub VITC in association with Crust and polygon.       | https://github.com/yash-seth/Counterfeit-Product-Detection-System |
 | TessOCR - Desktop OCR tool   | A lightweight and cross-platform compatible desktop OCR tool        | https://github.com/yash-seth/TessOCR/ |
 | E-Drive - Cloud Storage Service   |  A Cloud-Based Storage Service built using React, Node and Firebase        | https://yash-seth.github.io/edrivefms/ |
