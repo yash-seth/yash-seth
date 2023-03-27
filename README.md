@@ -18,7 +18,7 @@
 | E-Drive - Cloud Storage Service   |  A Cloud-Based Storage Service built using React, Node and Firebase        | https://yash-seth.github.io/edrivefms/ |
 | pymatops   |  A Python package for Matrix Operations        | https://github.com/yash-seth/pymatops |
 | MERN CRUD App   | A CRUD App based on the MERN Stack        | https://github.com/yash-seth/MERN-CRUD-App |
-| Django CRUD App  | A CRUD App based on the Django        | https://github.com/yash-seth/django-CRUD-app |
+| Django CRUD App  | A CRUD App based on Django        | https://github.com/yash-seth/django-CRUD-app |
 | Edpoint - A One-Stop Solution for all your Educational Needs   |  An Educational web-app based on HTML, CSS, JavaScript and Firebase      | https://yash-seth.github.io/Edpoint/ |
 | Railway Ticket Booking and Management System   |  Primitive Railway Ticket Booking and Management System which is based on a php backend and HTML, CSS and JS front-end.      | https://github.com/VinayMoolya/first_yr_dbms_proj |
 | Meme Generator   |  A tkinter-based Python application to create basic memes ;)      | https://github.com/yash-seth/meme-generator |
