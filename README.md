@@ -14,7 +14,10 @@
 | Misui Thirdweel - E-Commerce Platform      | Full Fledged E-Commerce Platform built for Misui India Pvt Ltd (Internship)     | [Landing Page](https://dev-yash-frontend.d3b57r97sw4yz6.amplifyapp.com/) <br> [Website Store](http://ec2-54-160-215-84.compute-1.amazonaws.com:3000/) |
 | Counterfeit Product Detection System      | A Blockchain-Based solution to help users check if a product is Real or Counterfeit. The idea and product were developed as part of the HacKnight Hackathon organized by HackClub VITC in association with Crust and polygon.       | https://github.com/yash-seth/Counterfeit-Product-Detection-System |
 | TessOCR - Desktop OCR tool   | A lightweight and cross-platform compatible desktop OCR tool        | https://github.com/yash-seth/TessOCR/ |
+| Pneumonia Prediction using Deep Learning   | CNN Deep Learning Models applied on lung images for prediction of Pneumonia      | https://github.com/yash-seth/Pneumonia-Prediction-DL |
+| Covid-19 Analysis   | Data Analysis Techniques applied for analysis of the Covid-19 Pandemic       | https://github.com/yash-seth/covid-analysis |
 | Real-time NBA News Analyzer   | NLP techniques applied to real-time NBA news about players       | https://github.com/yash-seth/NBA-news-analyzer |
+| Amazon Product Recommendation System  | Social Network Analysis (SNA) techniques applied to create a product recommendation system       | https://github.com/yash-seth/Amazon-Recommendation-System |
 | E-Drive - Cloud Storage Service   |  A Cloud-Based Storage Service built using React, Node and Firebase        | https://yash-seth.github.io/edrivefms/ |
 | pymatops   |  A Python package for Matrix Operations        | https://github.com/yash-seth/pymatops |
 | MERN CRUD App   | A CRUD App based on the MERN Stack        | https://github.com/yash-seth/MERN-CRUD-App |
