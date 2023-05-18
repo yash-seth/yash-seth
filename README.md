@@ -18,7 +18,7 @@
 | Brain Tumor Classification | Brain Tumor Classification done using ML techniques on MRI scans of the brain | https://github.com/yash-seth/Brain-Tumor-Classification |
 | Cataract Classification | Multi-class Cataract Classification using ML techniques on Eye images | https://github.com/yash-seth/Cataract-Classification |
 | Pneumonia Prediction using Deep Learning   | CNN Deep Learning Models applied on lung images for prediction of Pneumonia      | https://github.com/yash-seth/Pneumonia-Prediction-DL |
-| Covid-19 Analysis   | Data Analysis Techniques applied for analysis of the Covid-19 Pandemic       | https://github.com/yash-seth/covid-analysis |
+| Covid-19 Analysis   | Predicting Trends for Potential Virus Outbreaks by Analyzing COVID-19 Data       | https://github.com/yash-seth/covid-analysis |
 | Real-time NBA News Analyzer   | NLP techniques applied to real-time NBA news about players       | https://github.com/yash-seth/NBA-news-analyzer |
 | Amazon Product Recommendation System  | Social Network Analysis (SNA) techniques applied to create a product recommendation system       | https://github.com/yash-seth/Amazon-Recommendation-System |
 | E-Drive - Cloud Storage Service   |  A Cloud-Based Storage Service built using React, Node and Firebase        | https://yash-seth.github.io/edrivefms/ |
