@@ -24,11 +24,12 @@
 | Amazon Product Recommendation System  | Social Network Analysis (SNA) techniques applied to create a product recommendation system       | https://github.com/yash-seth/Amazon-Recommendation-System |
 | E-Drive - Cloud Storage Service   |  A Cloud-Based Storage Service built using React, Node and Firebase        | https://yash-seth.github.io/edrivefms/ |
 | pymatops   |  A Python package for Matrix Operations        | https://github.com/yash-seth/pymatops |
-| MERN CRUD App   | A CRUD App based on the MERN Stack        | https://github.com/yash-seth/MERN-CRUD-App |
-| Django CRUD App  | A CRUD App based on Django        | https://github.com/yash-seth/django-CRUD-app |
 | Edpoint - A One-Stop Solution for all your Educational Needs   |  An Educational web-app based on HTML, CSS, JavaScript and Firebase      | https://yash-seth.github.io/Edpoint/ |
+| Hercules Restaurant Management System | A svelte-based restaurant orders management system, with an Express server for JWT-based authorization and a SQL database. | https://github.com/yash-seth/hercules-RMS |
 | Railway Ticket Booking and Management System   |  Primitive Railway Ticket Booking and Management System which is based on a php backend and HTML, CSS and JS front-end.      | https://github.com/yash-seth/Railway-Ticket-Management-System |
 | Meme Generator   |  A tkinter-based Python application to create basic memes ;)      | https://github.com/yash-seth/meme-generator |
+| MERN CRUD App   | A CRUD App based on the MERN Stack        | https://github.com/yash-seth/MERN-CRUD-App |
+| Django CRUD App  | A CRUD App based on Django        | https://github.com/yash-seth/django-CRUD-app |
 
   </div>
 <br/>
