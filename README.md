@@ -14,6 +14,7 @@
 | Misui Thirdweel - E-Commerce Platform      | Full Fledged E-Commerce Platform built for Misui India Pvt Ltd (Internship)     | [Landing Page](https://dev-yash-frontend.d3b57r97sw4yz6.amplifyapp.com/) <br> [Website Store](http://ec2-54-160-215-84.compute-1.amazonaws.com:3000/) |
 | Juno | Juno - AI Powered Performance Analysis Dashboard | https://github.com/yash-seth/Juno |
 | SmartRoster | An AI-driven Attendance system to mark attendance by applying computer vision techniques. | https://github.com/yash-seth/SmartRoster |
+| Donation Platform | A generic website designed to fit the purpose of any NGO, which serves as a template for what a platform for an NGO would look like. | https://github.com/yash-seth/Donation-Platform |
 | Counterfeit Product Detection System      | A Blockchain-Based solution to help users check if a product is Real or Counterfeit. The idea and product were developed as part of the HacKnight Hackathon organized by HackClub VITC in association with Crust and polygon.       | https://github.com/yash-seth/Counterfeit-Product-Detection-System |
 | TessOCR - Desktop OCR tool   | A lightweight and cross-platform compatible desktop OCR tool        | https://github.com/yash-seth/TessOCR/ |
 | Brain Tumor Classification | Brain Tumor Classification done using ML techniques on MRI scans of the brain | https://github.com/yash-seth/Brain-Tumor-Classification |
