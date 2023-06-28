@@ -11,7 +11,7 @@
 ## :gear: Projects and Work Experience
 | Title      | Description | Link |
 | ----------- | ----------- | ----------- |
-| Misui Thirdweel - E-Commerce Platform      | Full Fledged E-Commerce Platform built for Misui India Pvt Ltd (Internship)     | [Landing Page](https://dev-yash-frontend.d3b57r97sw4yz6.amplifyapp.com/) <br> [Website Store](http://ec2-54-160-215-84.compute-1.amazonaws.com:3000/) |
+| Misui Thirdweel - E-Commerce Platform      | Full Fledged E-Commerce Platform built for Misui India Pvt Ltd (Internship)     | [Landing Page](https://dev-yash-frontend.d3b57r97sw4yz6.amplifyapp.com/) <br> [Website Store](https://dev-yash-frontend.d1kf75xx33yka6.amplifyapp.com/) |
 | Juno | Juno - AI Powered Performance Analysis Dashboard | https://github.com/yash-seth/Juno |
 | SmartRoster | An AI-driven Attendance system to mark attendance by applying computer vision techniques. | https://github.com/yash-seth/SmartRoster |
 | Donation Platform | A generic website designed to fit the purpose of any NGO, which serves as a template for what a platform for an NGO would look like. | https://github.com/yash-seth/Donation-Platform |
