@@ -15,7 +15,6 @@
 | Misui Thirdweel - E-Commerce Platform      | Full Fledged E-Commerce Platform built for Misui India Pvt Ltd (Internship)     | [Landing Page](https://dev-yash-frontend.d3b57r97sw4yz6.amplifyapp.com/) <br> [Website Store](https://dev-yash-frontend.d1kf75xx33yka6.amplifyapp.com/) |
 | Juno | Juno - AI Powered Performance Analysis Dashboard | https://github.com/yash-seth/Juno |
 | SmartRoster | An AI-driven Attendance system to mark attendance by applying computer vision techniques. | https://github.com/yash-seth/SmartRoster |
-| Intern Management Portal | A generic Intern Management Portal (IMP) for a Non-Government Organisation (NGO)/Non-Profit Organisation (NPO) that serves as base template for a portal having a user, admin and intern workflows. | https://github.com/yash-seth/intern-management-portal |
 | Donation Platform | A generic website designed to fit the purpose of any NGO, which serves as a template for what a platform for an NGO would look like. | https://github.com/yash-seth/Donation-Platform |
 | Counterfeit Product Detection System      | A Blockchain-Based solution to help users check if a product is Real or Counterfeit. The idea and product were developed as part of the HacKnight Hackathon organized by HackClub VITC in association with Crust and polygon.       | https://github.com/yash-seth/Counterfeit-Product-Detection-System |
 | TessOCR - Desktop OCR tool   | A lightweight and cross-platform compatible desktop OCR tool        | https://github.com/yash-seth/TessOCR/ |
