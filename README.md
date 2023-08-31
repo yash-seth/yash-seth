@@ -24,9 +24,9 @@
 | Covid-19 Analysis   | Predicting Trends for Potential Virus Outbreaks by Analyzing COVID-19 Data       | https://github.com/yash-seth/covid-analysis |
 | Real-time NBA News Analyzer   | NLP techniques applied to real-time NBA news about players       | https://github.com/yash-seth/NBA-news-analyzer |
 | Amazon Product Recommendation System  | Social Network Analysis (SNA) techniques applied to create a product recommendation system       | https://github.com/yash-seth/Amazon-Recommendation-System |
-| E-Drive - Cloud Storage Service   |  A Cloud-Based Storage Service built using React, Node and Firebase        | https://yash-seth.github.io/edrivefms/ |
+| E-Drive - Cloud Storage Service   |  A Cloud-Based Storage Service built using React, Node and Firebase        | [WebApp](https://yash-seth.github.io/edrivefms/) <br> [Repository](https://github.com/yash-seth/edrivefms) |
 | pymatops   |  A Python package for Matrix Operations        | https://github.com/yash-seth/pymatops |
-| Edpoint - A One-Stop Solution for all your Educational Needs   |  An Educational web-app based on HTML, CSS, JavaScript and Firebase      | https://yash-seth.github.io/Edpoint/ |
+| Edpoint - A One-Stop Solution for all your Educational Needs   |  An Educational web-app based on HTML, CSS, JavaScript and Firebase      | [Webapp](https://yash-seth.github.io/Edpoint/) <br> [Repository]() |
 | Hercules Restaurant Management System | A svelte-based restaurant orders management system, with an Express server for JWT-based authorization and a SQL database. | https://github.com/yash-seth/hercules-RMS |
 | Railway Ticket Booking and Management System   |  Primitive Railway Ticket Booking and Management System which is based on a php backend and HTML, CSS and JS front-end.      | https://github.com/yash-seth/Railway-Ticket-Management-System |
 | Meme Generator   |  A tkinter-based Python application to create basic memes ;)      | https://github.com/yash-seth/meme-generator |
