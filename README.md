@@ -17,6 +17,7 @@
 | SmartRoster | An AI-driven Attendance system to mark attendance by applying computer vision techniques. | https://github.com/yash-seth/SmartRoster |
 | Donation Platform | A generic website designed to fit the purpose of any NGO, which serves as a template for what a platform for an NGO would look like. | https://github.com/yash-seth/Donation-Platform |
 | Counterfeit Product Detection System      | A Blockchain-Based solution to help users check if a product is Real or Counterfeit. The idea and product were developed as part of the HacKnight Hackathon organized by HackClub VITC in association with Crust and polygon.       | https://github.com/yash-seth/Counterfeit-Product-Detection-System |
+|  Intern Mangement Portal | A generic platform for a non-profit organization to help handle interns/volunteers for drives they conduct.  |  [Repository](https://github.com/yash-seth/intern-management-portal) |
 | TessOCR - Desktop OCR tool   | A lightweight and cross-platform compatible desktop OCR tool        | https://github.com/yash-seth/TessOCR/ |
 | Brain Tumor Classification | Brain Tumor Classification done using ML techniques on MRI scans of the brain | https://github.com/yash-seth/Brain-Tumor-Classification |
 | Cataract Classification | Multi-class Cataract Classification using ML techniques on Eye images | https://github.com/yash-seth/Cataract-Classification |
