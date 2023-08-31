@@ -12,7 +12,7 @@
 | Title      | Description | Link |
 | ----------- | ----------- | ----------- |
 | JPMC CFG 2023 Winner      |   Winner at the JP Morgan Chase Code For Good Event 2023. Emerged victorious among top 250 students selected from all across India. Problem statement consisted of problems faced by NGOs. | [Certificate](https://drive.google.com/file/d/1eCSyOPvwBiE_swrSi_Nm27gobjJ0WB_w) |
-| Misui Thirdweel - E-Commerce Platform      | Full Fledged E-Commerce Platform built for Misui India Pvt Ltd (Internship)     | [Landing Page](https://dev-yash-frontend.d3b57r97sw4yz6.amplifyapp.com/) <br> [Website Store](https://dev-yash-frontend.d1kf75xx33yka6.amplifyapp.com/) |
+| Misui Thirdweel - E-Commerce Platform      | Full Fledged E-Commerce Platform built for Misui India Pvt Ltd (Internship)     | [Repository](https://github.com/yash-seth/Misui-Thirdweel) <br> [Landing Page](https://dev-yash-frontend.d3b57r97sw4yz6.amplifyapp.com/) <br> [Website Store](https://dev-yash-frontend.d1kf75xx33yka6.amplifyapp.com/) |
 | Juno | Juno - AI Powered Performance Analysis Dashboard | https://github.com/yash-seth/Juno |
 | SmartRoster | An AI-driven Attendance system to mark attendance by applying computer vision techniques. | https://github.com/yash-seth/SmartRoster |
 | Donation Platform | A generic website designed to fit the purpose of any NGO, which serves as a template for what a platform for an NGO would look like. | https://github.com/yash-seth/Donation-Platform |
