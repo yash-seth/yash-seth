@@ -26,6 +26,7 @@
 | Real-time NBA News Analyzer   | NLP techniques applied to real-time NBA news about players       | https://github.com/yash-seth/NBA-news-analyzer |
 | Amazon Product Recommendation System  | Social Network Analysis (SNA) techniques applied to create a product recommendation system       | https://github.com/yash-seth/Amazon-Recommendation-System |
 | E-Drive - Cloud Storage Service   |  A Cloud-Based Storage Service built using React, Node and Firebase        | [WebApp](https://yash-seth.github.io/edrivefms/) <br> [Repository](https://github.com/yash-seth/edrivefms) |
+| Kanban Board | A dynamic Kanban Board built using React.js. | [Repository](https://github.com/yash-seth/kanban-board) <br> [Demo](https://quicksell-frontend-task-yash-seth.vercel.app/) |
 |  Dev Utils |  Devloper Utility modules that are plug and play - starting at the cost of absolutely free. All you have to do is npm i and you're ready to go!  |  [Repository](https://github.com/yash-seth/dev-utils) |
 | pymatops   |  A Python package for Matrix Operations        | https://github.com/yash-seth/pymatops |
 | Edpoint - A One-Stop Solution for all your Educational Needs   |  An Educational web-app based on HTML, CSS, JavaScript and Firebase      | [WebApp](https://yash-seth.github.io/Edpoint/) <br> [Repository](https://github.com/yash-seth/Edpoint) |
