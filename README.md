@@ -34,6 +34,7 @@
 | Hercules Restaurant Management System | A svelte-based restaurant orders management system, with an Express server for JWT-based authorization and a SQL database. | https://github.com/yash-seth/hercules-RMS |
 | Railway Ticket Booking and Management System   |  Primitive Railway Ticket Booking and Management System which is based on a php backend and HTML, CSS and JS front-end.      | https://github.com/yash-seth/Railway-Ticket-Management-System |
 | Meme Generator   |  A tkinter-based Python application to create basic memes ;)      | https://github.com/yash-seth/meme-generator |
+| Golang Arithmetic API | Go backend for an API with basic arithmetic capabilities such as addition, subtraction, multiplication and division. | [Repository](https://github.com/yash-seth/golang-arithmetic-api) |
 | MERN CRUD App   | A CRUD App based on the MERN Stack        | https://github.com/yash-seth/MERN-CRUD-App |
 | Django CRUD App  | A CRUD App based on Django        | https://github.com/yash-seth/django-CRUD-app |
 
