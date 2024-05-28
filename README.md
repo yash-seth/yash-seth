@@ -11,7 +11,7 @@
 ## :gear: Projects and Work Experience
 | Title      | Description | Link |
 | ----------- | ----------- | ----------- |
-| JPMC CFG 2023 Winner      |   Winner at the JP Morgan Chase Code For Good Event 2023. Emerged victorious among top 250 students selected from all across India. Problem statement consisted of problems faced by NGOs. | [Certificate](https://drive.google.com/file/d/1eCSyOPvwBiE_swrSi_Nm27gobjJ0WB_w) |
+| JPMC CFG 2023 Winner      |   Winner at the JP Morgan Chase Code For Good Event 2023. Emerged victorious among top 250 students selected from all across India. Problem statement consisted of problems faced by NGOs. | [Certificate](https://drive.google.com/file/d/1eCSyOPvwBiE_swrSi_Nm27gobjJ0WB_w) <br> [Repository](https://github.com/yash-seth/JPMC-CFG-2023) |
 | Misui Thirdweel - E-Commerce Platform      | Full Fledged E-Commerce Platform built for Misui India Pvt Ltd (Internship)     | [Repository](https://github.com/yash-seth/Misui-Thirdweel) <br> [Landing Page](https://dev-yash-frontend.d3b57r97sw4yz6.amplifyapp.com/) <br> [Website Store](https://dev-yash-frontend.d1kf75xx33yka6.amplifyapp.com/) |
 |  Construction Site Safety | Efficient Framework for Construction Workers Safety using AI Techniques  |  https://github.com/yash-seth/construction-site-safety |
 | Juno | Juno - AI Powered Performance Analysis Dashboard | https://github.com/yash-seth/Juno |
