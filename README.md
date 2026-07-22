@@ -74,7 +74,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/yash-seth)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/yash-seth/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://www.instagram.com/_protostar_/)
-[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:yashseth2002@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:yash.seth.career@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&labelColor=white&logo=whatsapp&logoColor=green)](https://wa.me/+918108015244/?text=Hi%20Yash)
 
 </p>
@@ -96,5 +96,5 @@
  <br/>
  <div align="center">
   <h2>🤵 Contact Me</h2>
-  📫 <b>yashseth2002@gmail.com</b><br>
+  📫 <b>yash.seth.career@gmail.com</b><br>
  </div>
